@@ -1,0 +1,15 @@
+username = input("Enter username: ")
+
+score = 0
+
+if len(username) < 5:
+    score += 1
+if any(char.isdigit() for char in username):
+    score += 1
+if username.count("_") > 2:
+    score += 1
+
+if score >= 2:
+    print("Fake Profile Detected")
+else:
+    print("Looks Real")
