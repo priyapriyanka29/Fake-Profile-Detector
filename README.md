@@ -13,7 +13,7 @@ A Python tool that detects fake profiles based on simple patterns.
 
 * Python                     
 
-## ▶️ Run
+## ▶️ Run             
 
 ```bash
 python main.py
