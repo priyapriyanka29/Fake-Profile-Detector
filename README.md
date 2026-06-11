@@ -11,7 +11,7 @@ A Python tool that detects fake profiles based on simple patterns.
 
 ## 🛠️ Tech Used
 
-* Python
+* Python        
 
 ## ▶️ Run
 
