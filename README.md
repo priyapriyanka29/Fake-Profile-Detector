@@ -14,7 +14,7 @@ A Python tool that detects fake profiles based on simple patterns.
 * Python                     
 
 ## ▶️ Run             
-
+             
 ```bash
 python main.py
 ```
