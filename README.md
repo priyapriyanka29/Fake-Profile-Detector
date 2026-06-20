@@ -8,7 +8,7 @@ A Python tool that detects fake profiles based on simple patterns.
                
 * Username analysis
 * Basic fake profile detection
-
+    
 ## 🛠️ Tech Used
 
 * Python                     
